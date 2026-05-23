@@ -42,4 +42,4 @@ Laura Santos
 
 ## 📷 Preview
 
-🔗 [Clique aqui para visualizar](https://github.com/LauraHelena93/Atrativos_Sorocaba.git)
+🔗 [Clique aqui para visualizar](https://laurahelena93.github.io/Atrativos_Sorocaba/)
