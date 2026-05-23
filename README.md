@@ -2,10 +2,7 @@
 
 Projeto desenvolvido com HTML e CSS apresentando alguns dos principais parques e pontos turísticos da cidade de Sorocaba.
 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="22">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="22">
-  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-6aa84f?style=flat" height="22">
-  <img src="https://img.shields.io/badge/Projeto-Front--End-8e7cc3?style=flat" height="22">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="22"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="22"><img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-6aa84f?style=flat" height="22"><img src="https://img.shields.io/badge/Projeto-Front--End-8e7cc3?style=flat" height="22">
 
 ---
 
@@ -45,5 +42,4 @@ Laura Santos
 
 ## 📷 Preview
 
-
-![Preview do Projeto](imagens/preview.png)
+🔗 [Clique aqui para visualizar](https://github.com/LauraHelena93/Atrativos_Sorocaba.git)
