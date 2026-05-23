@@ -1,0 +1,39 @@
+.turismo {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    width: 550px;
+    height: 320px;
+    background-color: rgb(186, 201, 214);
+
+}
+.turismo:hover {
+    transform: scale(1.05);
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    padding-top: 15px;
+    margin-bottom: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+    text-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+}
+.header {
+    background-color: rgb(70, 80, 88);
+    padding: 18px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.cards {
+    padding: 10px;
+    background-color: rgb(231, 229, 236);
+}
+.footer {
+    padding: 10px;
+    text-align: center;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
